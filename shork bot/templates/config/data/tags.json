@@ -1,0 +1,10 @@
+[
+  {
+    "name": "join",
+    "aliases": [
+      "guild",
+      "joinguild"
+    ],
+    "response": "/g join icefox on hypixel!"
+  }
+]
